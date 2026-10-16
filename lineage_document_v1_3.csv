@@ -1,0 +1,7 @@
+input,source_system,captured,note,split_method
+stated_income,Application form,At application,Applicant entry,"Random 80/20 of all applications, months 1-18"
+employment_years,Application form,At application,Applicant entry,"Random 80/20 of all applications, months 1-18"
+credit_bureau_score,Bureau API,At application,Bureau pull at submission,"Random 80/20 of all applications, months 1-18"
+debt_to_income,Derived,At application,"loan_amount and income, calculated","Random 80/20 of all applications, months 1-18"
+loan_amount,Application form,At application,Applicant entry,"Random 80/20 of all applications, months 1-18"
+collections_contact_flag,Collections system,30 to 90 days after loan issue,Set by collections agents on first contact,"Random 80/20 of all applications, months 1-18"
